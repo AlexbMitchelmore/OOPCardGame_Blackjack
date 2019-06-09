@@ -134,167 +134,6 @@
     <None Include="Resources\cardShuffle.gif" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\AceClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\AceDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\AceHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\AceSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\cardback.gif">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\EightClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\EightDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\EightHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\EightSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FiveClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FiveDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FiveHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FiveSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FourClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FourDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FourHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\FourSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\JackClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\JackDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\JackHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\JackSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\KingClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\KingDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\KingHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\KingSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\NineClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\NineDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\NineHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\NineSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\QueenClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\QueenDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\QueenHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\QueenSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SevenClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SevenDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SevenHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SevenSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SixClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SixDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SixHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\SixSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TenClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TenDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TenHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TenSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\ThreeClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\ThreeDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\ThreeHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\ThreeSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TwoClubs.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TwoDiamonds.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TwoHearts.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="images\TwoSpades.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
@@ -305,6 +144,61 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\AceClubs.jpg" />
+    <Content Include="images\AceDiamonds.jpg" />
+    <Content Include="images\AceHearts.jpg" />
+    <Content Include="images\AceSpades.jpg" />
+    <Content Include="images\cardback.gif" />
+    <Content Include="images\EightClubs.jpg" />
+    <Content Include="images\EightDiamonds.jpg" />
+    <Content Include="images\EightHearts.jpg" />
+    <Content Include="images\EightSpades.jpg" />
+    <Content Include="images\FiveClubs.jpg" />
+    <Content Include="images\FiveDiamonds.jpg" />
+    <Content Include="images\FiveHearts.jpg" />
+    <Content Include="images\FiveSpades.jpg" />
+    <Content Include="images\FourClubs.jpg" />
+    <Content Include="images\FourDiamonds.jpg" />
+    <Content Include="images\FourHearts.jpg" />
+    <Content Include="images\FourSpades.jpg" />
+    <Content Include="images\JackClubs.jpg" />
+    <Content Include="images\JackDiamonds.jpg" />
+    <Content Include="images\JackHearts.jpg" />
+    <Content Include="images\JackSpades.jpg" />
+    <Content Include="images\KingClubs.jpg" />
+    <Content Include="images\KingDiamonds.jpg" />
+    <Content Include="images\KingHearts.jpg" />
+    <Content Include="images\KingSpades.jpg" />
+    <Content Include="images\NineClubs.jpg" />
+    <Content Include="images\NineDiamonds.jpg" />
+    <Content Include="images\NineHearts.jpg" />
+    <Content Include="images\NineSpades.jpg" />
+    <Content Include="images\QueenClubs.jpg" />
+    <Content Include="images\QueenDiamonds.jpg" />
+    <Content Include="images\QueenHearts.jpg" />
+    <Content Include="images\QueenSpades.jpg" />
+    <Content Include="images\SevenClubs.jpg" />
+    <Content Include="images\SevenDiamonds.jpg" />
+    <Content Include="images\SevenHearts.jpg" />
+    <Content Include="images\SevenSpades.jpg" />
+    <Content Include="images\SixClubs.jpg" />
+    <Content Include="images\SixDiamonds.jpg" />
+    <Content Include="images\SixHearts.jpg" />
+    <Content Include="images\SixSpades.jpg" />
+    <Content Include="images\TenClubs.jpg" />
+    <Content Include="images\TenDiamonds.jpg" />
+    <Content Include="images\TenHearts.jpg" />
+    <Content Include="images\TenSpades.jpg" />
+    <Content Include="images\ThreeClubs.jpg" />
+    <Content Include="images\ThreeDiamonds.jpg" />
+    <Content Include="images\ThreeHearts.jpg" />
+    <Content Include="images\ThreeSpades.jpg" />
+    <Content Include="images\TwoClubs.jpg" />
+    <Content Include="images\TwoDiamonds.jpg" />
+    <Content Include="images\TwoHearts.jpg" />
+    <Content Include="images\TwoSpades.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

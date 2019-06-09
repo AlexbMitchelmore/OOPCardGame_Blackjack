@@ -65,7 +65,7 @@
             // btnHit
             // 
             this.btnHit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHit.Location = new System.Drawing.Point(12, 268);
+            this.btnHit.Location = new System.Drawing.Point(57, 260);
             this.btnHit.Name = "btnHit";
             this.btnHit.Size = new System.Drawing.Size(121, 37);
             this.btnHit.TabIndex = 1;
@@ -76,7 +76,7 @@
             // btnStay
             // 
             this.btnStay.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStay.Location = new System.Drawing.Point(149, 268);
+            this.btnStay.Location = new System.Drawing.Point(216, 260);
             this.btnStay.Name = "btnStay";
             this.btnStay.Size = new System.Drawing.Size(121, 37);
             this.btnStay.TabIndex = 2;
@@ -88,7 +88,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(288, 243);
+            this.label2.Location = new System.Drawing.Point(135, 332);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(94, 20);
             this.label2.TabIndex = 3;
@@ -99,7 +99,7 @@
             this.lblPlayer.BackColor = System.Drawing.Color.White;
             this.lblPlayer.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblPlayer.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPlayer.Location = new System.Drawing.Point(289, 268);
+            this.lblPlayer.Location = new System.Drawing.Point(136, 357);
             this.lblPlayer.Name = "lblPlayer";
             this.lblPlayer.Size = new System.Drawing.Size(108, 37);
             this.lblPlayer.TabIndex = 4;

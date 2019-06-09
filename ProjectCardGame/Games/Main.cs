@@ -67,8 +67,7 @@ namespace Games
         {
             Shuffle myShuffle = new Shuffle(this);
             myShuffle.ShowDialog();
-
-            //The cards have to be shuffled before the game can be played
+           
             SetUp();
             btnGame.Enabled = true;
         }
@@ -133,8 +132,6 @@ namespace Games
                 aDeck.Shuffle();
                 btnHit.Enabled = false;
                 btnStay.Enabled = false;
-                btnGame.Enabled = false;
-                btnShuffle.Enabled = true;
             }
             catch (Exception ex)
             {

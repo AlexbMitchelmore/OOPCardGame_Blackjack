@@ -131,6 +131,11 @@ namespace ProjectCardGame
             {
                 msg += "The house has the better hand. The House Wins!";
             }
+            else
+            {
+                //A tie in hand values means the house wins
+                msg += "You have tied with the house. The House Wins!";
+            }
 
             return msg;
         }
